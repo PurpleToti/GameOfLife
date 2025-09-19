@@ -1,0 +1,4 @@
+This small project was realized as part of the weekly project challenge.
+From 8/09/2025 to 19/09/2025.
+Note : Since a gamejam interrupted the week for 3 days i decided to extend the project
+for some extra time.
