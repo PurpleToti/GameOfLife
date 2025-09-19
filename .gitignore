@@ -405,3 +405,6 @@ Makefile
 *.swp
 *.swo
 *.swn
+
+# Visual Studio Code
+.vscode
