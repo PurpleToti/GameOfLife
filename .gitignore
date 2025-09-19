@@ -408,3 +408,7 @@ Makefile
 
 # Visual Studio Code
 .vscode
+
+# Builds
+bin
+build
