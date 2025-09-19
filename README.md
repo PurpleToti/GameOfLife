@@ -9,4 +9,4 @@ used libraries are :
  - raylib
  - math
  - cstdlib
- - 
+ - omp (for small parallelization)
